@@ -351,7 +351,7 @@ if __name__ == '__main__':
     # Muda o ícone da janela
     janela.iconphoto(True, icone_janela)
 
-    # Impedir que os botões de órgão afundem quando pressionados
+    # Impede que os botões de órgão afundem quando pressionados
     janela.bind('<Button 1>', manter_plano)
 
     # Mantém a janela aberta
