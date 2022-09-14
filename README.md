@@ -8,7 +8,7 @@ Foi inteiramente desenvolvido na linguagem python utilizando, principalmente, a 
 montado por mim no Photoshop. O intuito é ser um jogo simples e didático, para que você, depois de jogá-lo, saiba diferenciar os principais órgãos do nosso sistema 
 digestivo. Não se preocupe que dentro do jogo existe um tutorial explicando direitinho como ele funciona.
 
-É bom destacar que para ele funcionar corretamente é necessário que o executável do jogo esteja no mesmo arquivo que as pastas imagens e trilha_sonora.
+**É bom destacar que para ele funcionar corretamente é necessário que o executável do jogo esteja no mesmo arquivo que as pastas imagens e trilha_sonora.**
 
 # Direitos autorais
 Em qualquer jogo não pode faltar uma trilha sonora, e nesse não foi diferente, porém ela não é de minha autoria e nada mais do que justo deixar aqui um link
